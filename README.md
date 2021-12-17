@@ -1,10 +1,28 @@
 # ML-Based-Dog-Breed-Identifier
 This is a Django Based Web Site To Identify the Breed of which your DOG belogs All You Need To Do is to Follow These Steps 
+
 ## Home Page 
 <img src="https://github.com/Knighthawk-Leo/ML-Based-Dog-Breed-Identifier/blob/main/Images/home.png">
 
 ## Result Page 
 <img src="https://github.com/Knighthawk-Leo/ML-Based-Dog-Breed-Identifier/blob/main/Images/Result.png">
+
+## Setup Discription 
+### you need to install following libraries to run this python program in cmd
+```
+pip install tensorflow
+pip install keras
+pip install django
+pip install numpy
+
+```
+## Compilation Steps
+Just Goto the Project Directory and Paste this Command 
+```
+python manage.py runserver
+
+```
+
 ## How to Contribute 🤔
 
 You can contribute by adding new scripts, improving current scripts or documentation. Here are some instructions
