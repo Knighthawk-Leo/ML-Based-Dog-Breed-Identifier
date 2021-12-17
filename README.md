@@ -1,7 +1,10 @@
 # ML-Based-Dog-Breed-Identifier
 This is a Django Based Web Site To Identify the Breed of which your DOG belogs All You Need To Do is to Follow These Steps 
 ## Home Page 
+<img src="https://github.com/Knighthawk-Leo/ML-Based-Dog-Breed-Identifier/blob/main/Images/home.png">
 
+## Result Page 
+<img src="https://github.com/Knighthawk-Leo/ML-Based-Dog-Breed-Identifier/blob/main/Images/Result.png">
 ## How to Contribute 🤔
 
 You can contribute by adding new scripts, improving current scripts or documentation. Here are some instructions
