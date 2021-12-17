@@ -1,6 +1,6 @@
 # ML-Based-Dog-Breed-Identifier
 This is a Django Based Web Site To Identify the Breed of which your DOG belogs All You Need To Do is to Follow These Steps 
-##Home Page 
+## Home Page 
 
 ## How to Contribute 🤔
 
