@@ -7,6 +7,24 @@ This is a Django Based Web Site To Identify the Breed of which your DOG belogs A
 ## Result Page 
 <img src="https://github.com/Knighthawk-Leo/ML-Based-Dog-Breed-Identifier/blob/main/Images/Result.png">
 
+<h2>✔Project Maintainer/Owner</h2>
+
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/Knighthawk-Leo"><img src="https://github.com/Knighthawk-Leo/ML-Based-Dog-Breed-Identifier/blob/main/Images/IMG20211212132226.jpg" width="180px;" alt=""/><br /><sub><b>Sanskar Dwivedi</b></sub></a></td>  
+
+  </tr>
+</table>
+<h2>✔Contributors/Admin</h2>
+
+<table>
+ <tr>
+<td align="center"><img src="https://avatars.githubusercontent.com/u/72202404?v=4" width="180px;" alt=""/><br /><sub><b>Yash Sakre</b></sub></a></td>  
+<td align="center"><img src="https://github.com/Knighthawk-Leo/ML-Based-Dog-Breed-Identifier/blob/main/Images/IMG20211102195542.jpg" width="150px;" alt=""/><br /><sub><b>Piyush Kumar Dewangan</b></sub></a></td>  
+<td align="center"><img src="https://github.com/Knighthawk-Leo/ML-Based-Dog-Breed-Identifier/blob/main/Images/%E2%80%94Pngtree%E2%80%94cartoon%20male%20teacher%20holding%20a_5552300.png" width="150px;" alt=""/><br /><sub><b>Rajat Naik</b></sub></a></td>  
+
+</tr>
+</table>
 
 ## Setup Discription 
 ### you need to install following libraries to run this python program in cmd
