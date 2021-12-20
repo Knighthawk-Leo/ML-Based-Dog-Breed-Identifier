@@ -129,24 +129,9 @@ before making a Pull Request:
 
 - Help us improve scripts. Report bugs [here](https://github.com/Knighthawk-Leo/ML-Based-Dog-Breed-Identifier/issues). <br/>
 
-<h2>✔Project Maintainer/Owner</h2>
 
-<table>
-  <tr>
-<td align="center"><a href="https://github.com/Knighthawk-Leo"><img src="https://github.com/Knighthawk-Leo/ML-Based-Dog-Breed-Identifier/blob/main/Images/IMG20211212132226.jpg" width="180px;" alt=""/><br /><sub><b>Sanskar Dwivedi</b></sub></a></td>  
 
-  </tr>
-</table>
-<h2>✔Contributors/Admin</h2>
 
-<table>
- <tr>
-<td align="center"><img src="https://avatars.githubusercontent.com/u/72202404?v=4" width="180px;" alt=""/><br /><sub><b>Yash Sakre</b></sub></a></td>  
-<td align="center"><img src="https://github.com/Knighthawk-Leo/ML-Based-Dog-Breed-Identifier/blob/main/Images/IMG20211102195542.jpg" width="180px;" alt=""/><br /><sub><b>Piyush Kumar Dewangan</b></sub></a></td>  
-<td align="center"><img src="https://github.com/Knighthawk-Leo/ML-Based-Dog-Breed-Identifier/blob/main/Images/%E2%80%94Pngtree%E2%80%94cartoon%20male%20teacher%20holding%20a_5552300.png" width="180px;" alt=""/><br /><sub><b>Rajat Naik</b></sub></a></td>  
-
-</tr>
-</table>
 
 
 ##
